@@ -1,11 +1,21 @@
-# Get Started
+# Introduction
 
-## Try it out
+## Welcome to MyAPI
 
-Use this area to play with the editor and get to grips with some of the content blocks. Have a play then move on to the next page!
+Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
+## Want to jump right in?
 
+Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
-## Moving on
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
+## Want to deep dive?
+
+Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
+
+{% content-ref url="installation/installation.md" %}
+[installation.md](installation/installation.md)
+{% endcontent-ref %}
