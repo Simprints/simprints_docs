@@ -4,7 +4,7 @@
 
 Simprints is a nonprofit tech company committed to transforming the way the world fights poverty. We build technology to radically increase transparency and effectiveness in global development, making sure that every vaccine, every dollar, every public good reaches the people who need them most.
 
-Current partners include Gavi (Switzerland), Ghana Health Services (Ghana), Arm (UK), Autodesk (US), CIFF (UK), BRAC (Bangladesh), Cohesu (Kenya), Impact Network (Zambia), Minister of Health of Ethiopia (Ethiopia) and Mercy Corps (NigeriaWelcome to MyAPI
+Current partners include Gavi (Switzerland), Ghana Health Services (Ghana), Arm (UK), Autodesk (US), CIFF (UK), BRAC (Bangladesh), Cohesu (Kenya), Impact Network (Zambia), Minister of Health of Ethiopia (Ethiopia) and Mercy Corps (Nigeria)
 
 ## Our Mission&#x20;
 
