@@ -3,6 +3,7 @@
 * [Introduction](README.md)
   * [Goals](introduction/goals.md)
   * [Audience](introduction/audience.md)
+  * [Disclaimer](introduction/disclaimer.md)
 
 ## Product Overview
 
