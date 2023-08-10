@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/137-1379302_work-in-progress-header-work-in-progress-icon.png
+coverY: -34.751999999999995
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Introduction
 
 ## Overview&#x20;
