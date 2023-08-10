@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/137-1379302_work-in-progress-header-work-in-progress-icon.png
-coverY: -34.751999999999995
+cover: .gitbook/assets/page-under-development.jpg
+coverY: 39
 layout:
   cover:
     visible: true
