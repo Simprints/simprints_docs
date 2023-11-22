@@ -12,11 +12,7 @@ The name of the pet
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="owner_id" required="false" type="string" %}
-The 
-
-`id`
-
- of the user who owns the pet
+The `id` of the user who owns the pet
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="species" required="false" type="string" %}
