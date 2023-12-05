@@ -15,7 +15,7 @@
 
 * [System architecture](architecture/system-architecture/README.md)
   * [Backend/Cloud](architecture/system-architecture/backend-cloud/README.md)
-    * [EUCLID](architecture/system-architecture/backend-cloud/euclid.md)
+    * [EUCLID (WIP)](architecture/system-architecture/backend-cloud/euclid-wip.md)
   * [Mobile](architecture/system-architecture/mobile/README.md)
     * [Simprints ID (SID)](architecture/system-architecture/mobile/simprints-id-sid/README.md)
       * [Project structure](architecture/system-architecture/mobile/simprints-id-sid/project-structure.md)
