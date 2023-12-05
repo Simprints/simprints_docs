@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Welcome to the Simprints community! We are thrilled that you are interested in contributing to our open-source projects. This document outlines the guidelines and best practices for making meaningful and valuable contributions. Please read and follow these guidelines to make sure that everyone has a smooth and collaborative experience.
+Welcome to the Simprints community! We are thrilled that you are interested in contributing to our open-source projects. This document outlines the guidelines and best practices for making meaningful and valuable contributions. Please read and follow these guidelines to ensure everyone has a smooth and collaborative experience.
 
 ### Community Guidelines
 
@@ -12,7 +12,7 @@ Simprints maintains a variety of open-source projects on GitHub. To find a proje
 
 ### Getting Help
 
-If you need any assistance or have questions related to contributions, feel free to reach out to our community on our communication channels **(WIP)**
+If you need any assistance or have questions about contributions, feel free to reach out and be part of our community on the Simprints [GitHub Discussion Page](https://github.com/orgs/Simprints/discussions).
 
 Thank you for considering contributing to Simprints. Your contributions help improve our projects and benefit the broader community. Happy coding!
 
