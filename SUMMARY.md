@@ -8,7 +8,7 @@
 ## Product Overview
 
 * [Product Overview](product-overview/product-overview/README.md)
-  * [Simprints ID (SID)](product-overview/product-overview/simprints-id-sid/README.md)
+  * [Simprints ID (SID)](product-overview/product-overview/simprints-id-sid.md)
     * [Enrolment](product-overview/product-overview/simprints-id-sid/enrolment.md)
     * [Verification](product-overview/product-overview/simprints-id-sid/verification.md)
     * [Indentification](product-overview/product-overview/simprints-id-sid/indentification.md)
