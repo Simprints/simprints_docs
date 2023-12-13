@@ -1,7 +1,7 @@
 # Simprints ID (SID)
 
 {% hint style="warning" %}
-This page is still a work in progress.
+This page is still a work in progress and will be updated as we mature our open-source offerings
 {% endhint %}
 
 Simprints ID has been designed to work in tandem with data collection applications. Therefore, the main execution flows are triggered not by the launcher intent but by an implicit intent from those applications. More information about the intent contract can be found on [LibSimprints](https://github.com/Simprints/LibSimprints) page.
