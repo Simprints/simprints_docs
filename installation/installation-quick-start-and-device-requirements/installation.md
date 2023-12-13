@@ -8,11 +8,11 @@ Two options for getting Simprints ID onto your phone are the Google Play Store o
 
 1. Check your device is connected to the internet
 2. Click the [link ](https://play.google.com/store/apps/details?id=com.simprints.id\&pcampaignid=web\_share)or&#x20;
-3. Find this icon on your phone: <img src="../.gitbook/assets/image-20201223-162954.png" alt="" data-size="line">
+3. Find this icon on your phone: <img src="../../.gitbook/assets/image-20201223-162954.png" alt="" data-size="line">
 4. Search Google Play, and you will find this icon.
 5.  Open the app, and search ‘[Simprints ID](https://play.google.com/store/apps/details?id=com.simprints.id\&pcampaignid=web\_share)’
 
-    ![](../.gitbook/assets/image-20201223-163229.png)
+    ![](../../.gitbook/assets/image-20201223-163229.png)
 6. Install the app
 
 

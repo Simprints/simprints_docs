@@ -51,14 +51,14 @@ There is an excellent guide for [Responsible Biometrics Deployment Handbook avai
 
 Feeling like an eager beaver? Jump into the quick start docs:
 
-{% content-ref url="installation/quick-start-guide.md" %}
-[quick-start-guide.md](installation/quick-start-guide.md)
+{% content-ref url="installation/installation-quick-start-and-device-requirements/quick-start-guide.md" %}
+[quick-start-guide.md](installation/installation-quick-start-and-device-requirements/quick-start-guide.md)
 {% endcontent-ref %}
 
 ## Want to deep dive?
 
 Dive a little deeper and start exploring our installation guide to get an idea of everything you need to use Simprints Products:
 
-{% content-ref url="installation/installation.md" %}
-[installation.md](installation/installation.md)
+{% content-ref url="installation/installation-quick-start-and-device-requirements/installation.md" %}
+[installation.md](installation/installation-quick-start-and-device-requirements/installation.md)
 {% endcontent-ref %}

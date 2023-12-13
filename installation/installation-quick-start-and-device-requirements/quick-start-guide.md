@@ -3,7 +3,7 @@
 {% hint style="info" %}
 This guide was initially intended for Simprints staff who want to use and/or test Simprints for the first time. It assumes no prior knowledge and only covers the absolute essentials required for first-time setup.
 
-As such, open-source users cannot perform steps 3 to 7 without support from Simprints. If you want to know more, please contact us via our Support[ channels](../community-and-support/support-channels.md).
+As such, open-source users cannot perform steps 3 to 7 without support from Simprints. If you want to know more, please contact us via our Support[ channels](../../community-and-support/support-channels.md).
 {% endhint %}
 
 By the end of this guide, you should have:
@@ -62,11 +62,11 @@ Simprints can be configured to support either Face and/or Fingerprint modalities
 
 Simprints has not developed its own Face algorithm (yet..). We use a commercial algorithm created by RankOne Computing, so each device using it must be provisioned with a license.
 
-Unfortunately, we cannot release these to our open-source users. If you want to discuss this, we will help you. Get in touch with us via one of the methods listed [here](../community-and-support/support-channels.md). We will need your device ID, too.
+Unfortunately, we cannot release these to our open-source users. If you want to discuss this, we will help you. Get in touch with us via one of the methods listed [here](../../community-and-support/support-channels.md). We will need your device ID, too.
 
 1. Open Simprints ID
 2. Copy your device ID
-3. &#x20;![](../.gitbook/assets/Screenshot\_20230925-093518.png)
+3. &#x20;![](../../.gitbook/assets/Screenshot\_20230925-093518.png)
 
 **Fingerprint**
 
@@ -90,7 +90,7 @@ You’re at the home stretch! Let’s perform an **Enrollment** to capture your 
 2. Tap “Enrol in SID”
 3. Fill in `projectId` with the Project ID given to you by&#x20;
 4. Leave all other fields as they are
-5. &#x20;![](<../.gitbook/assets/c0ecc65e-ec70-40dc-9cf3-623bf8f545d7 (1).png>)
+5. &#x20;![](<../../.gitbook/assets/c0ecc65e-ec70-40dc-9cf3-623bf8f545d7 (1).png>)
 6. Tap Execute (this will open SID)
 7. Login to SID by scanning the QR code generated in Vulcan
 8. Follow the steps in SID to enroll
@@ -109,7 +109,7 @@ Last part! Let’s perform an **Identification** to check if we can find the bio
 5. Follow the steps in SID
 6. View the response; it should look something like this:
 
-![](../.gitbook/assets/Screenshot\_20230919-153356.png)
+![](../../.gitbook/assets/Screenshot\_20230919-153356.png)
 
 ## 🔮 What’s next? <a href="#whats-next" id="whats-next"></a>
 

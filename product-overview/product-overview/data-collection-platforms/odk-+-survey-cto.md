@@ -1,6 +1,6 @@
 # ODK + Survey CTO
 
-Simprints ID can be integrated into any ODK-based platform. Make sure you have checked out our [Quick Start Guide](../../../installation/quick-start-guide.md) page before continuing.
+Simprints ID can be integrated into any ODK-based platform. Make sure you have checked out our [Quick Start Guide](../../../installation/installation-quick-start-and-device-requirements/quick-start-guide.md) page before continuing.
 
 An ODK XML form can collect information about a beneficiary over time. Within an ODK XML form, there is functionality to integrate the Simprints ID app. This will allow frontline workers to scan and capture a beneficiary's biometric records.
 

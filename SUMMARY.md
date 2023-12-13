@@ -35,9 +35,10 @@
 
 ## Installation
 
-* [Installation](installation/installation.md)
-* [Quick Start Guide](installation/quick-start-guide.md)
-* [Device Requirements](installation/device-requirements.md)
+* [Installation, Quick Start and Device Requirements](installation/installation-quick-start-and-device-requirements/README.md)
+  * [Installation](installation/installation-quick-start-and-device-requirements/installation.md)
+  * [Quick Start Guide](installation/installation-quick-start-and-device-requirements/quick-start-guide.md)
+  * [Device Requirements](installation/installation-quick-start-and-device-requirements/device-requirements.md)
 
 ## Usage & Functionality
 
