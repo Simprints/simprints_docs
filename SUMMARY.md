@@ -68,12 +68,11 @@
 
 ## Security & Privacy
 
-* [Security & Privacy](security-and-privacy/security-and-privacy/README.md)
-  * [Page](security-and-privacy/security-and-privacy/page.md)
-  * [Security Policy](security-and-privacy/security-and-privacy/security-policy.md)
-  * [Best Practises](security-and-privacy/security-and-privacy/best-practises.md)
-  * [Responsible Use](security-and-privacy/security-and-privacy/responsible-use.md)
-  * [Privacy Policy](security-and-privacy/security-and-privacy/privacy-policy.md)
+* [Security & Privacy Considerations](security-and-privacy/security-and-privacy-considerations/README.md)
+  * [Security Policy](security-and-privacy/security-and-privacy-considerations/security-policy.md)
+  * [Best Practises](security-and-privacy/security-and-privacy-considerations/best-practises.md)
+  * [Responsible Use](security-and-privacy/security-and-privacy-considerations/responsible-use.md)
+  * [Privacy Policy](security-and-privacy/security-and-privacy-considerations/privacy-policy.md)
 
 ## Troubleshooting
 
@@ -88,8 +87,6 @@
 ## Product Roadmap
 
 * [Product Roadmap](product-roadmap/product-roadmap/README.md)
-  * [On our Radar](product-roadmap/product-roadmap/on-our-radar.md)
-  * [In Progress](product-roadmap/product-roadmap/in-progress.md)
   * [Current Releases](product-roadmap/product-roadmap/current-releases.md)
   * [Previous Releases](product-roadmap/product-roadmap/previous-releases.md)
   * [Submit an Idea or Request](product-roadmap/product-roadmap/submit-an-idea-or-request.md)
