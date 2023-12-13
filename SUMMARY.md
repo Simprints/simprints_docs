@@ -36,7 +36,6 @@
 ## Installation
 
 * [Installation](installation/installation.md)
-* [Configuration](installation/configuration.md)
 * [Quick Start Guide](installation/quick-start-guide.md)
 * [Device Requirements](installation/device-requirements.md)
 
