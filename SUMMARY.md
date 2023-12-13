@@ -48,25 +48,6 @@
   * [Identification](usage-and-functionality/what-can-you-do/identification.md)
   * [Testing](usage-and-functionality/what-can-you-do/testing.md)
 
-## API Documentation
-
-* [APIs](api-documentation/apis.md)
-* [SDKs](api-documentation/sdks.md)
-* [Libraries](api-documentation/libraries.md)
-
-## Testing
-
-* [Testing](testing/testing/README.md)
-  * [Automated Testing](testing/testing/automated-testing.md)
-  * [Debugging](testing/testing/debugging.md)
-  * [Code Coverage](testing/testing/code-coverage.md)
-
-## Deployment
-
-* [Deployment](deployment/deployment/README.md)
-  * [Deployment Guide](deployment/deployment/deployment-guide.md)
-  * [CI/CD](deployment/deployment/ci-cd.md)
-
 ## Security & Privacy
 
 * [Security & Privacy Considerations](security-and-privacy/security-and-privacy-considerations/README.md)
