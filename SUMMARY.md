@@ -52,9 +52,9 @@
 
 * [Security & Privacy Considerations](security-and-privacy/security-and-privacy-considerations/README.md)
   * [Security Policy](security-and-privacy/security-and-privacy-considerations/security-policy.md)
-  * [Best Practises](security-and-privacy/security-and-privacy-considerations/best-practises.md)
   * [Responsible Use](security-and-privacy/security-and-privacy-considerations/responsible-use.md)
   * [Privacy Policy](security-and-privacy/security-and-privacy-considerations/privacy-policy.md)
+  * [Cookie Policy](security-and-privacy/security-and-privacy-considerations/cookie-policy.md)
 
 ## Troubleshooting
 
