@@ -56,6 +56,10 @@
   * [Privacy Policy](security-and-privacy/security-and-privacy-considerations/privacy-policy.md)
   * [Cookie Policy](security-and-privacy/security-and-privacy-considerations/cookie-policy.md)
 
+## Development
+
+* [Getting setup](development/getting-setup.md)
+
 ## Troubleshooting
 
 * [FAQs](troubleshooting/faqs.md)
