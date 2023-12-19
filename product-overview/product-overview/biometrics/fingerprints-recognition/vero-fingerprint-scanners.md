@@ -1,7 +1,6 @@
 ---
-cover: >-
-  https://lh5.googleusercontent.com/Wui8h2D0SQBzimB6MMo-KoLK9stw-kHGeACpYDkIrdPf44ftB4N0Nl0M0LQI6WwfVsyCPaISbSUm_3b9RW_qaYTxhInZwSUBDECIXu4_lI2o1PGMpTyAp2NgLu0IKPL23w=w1280
-coverY: -423
+cover: ../../../../.gitbook/assets/FingerprintScanner.jpg
+coverY: -340
 layout:
   cover:
     visible: true
