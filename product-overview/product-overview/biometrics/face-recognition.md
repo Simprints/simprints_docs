@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://lh3.googleusercontent.com/iBKt-pI4Uu96sfgHZS4lG7zzhIM_Ak3_EpswJpeBY_xPuNm4gVFFAS2f3jH1RpMZVl1b6-D3TJ2zLMLvleSU3dftXL1MOnthGwe24OBwozJCHAOMmiPxLc_2xRT6UOVVvA=w1280
+cover: ../../../.gitbook/assets/kenya-048.jpg
 coverY: 0
 layout:
   cover:
