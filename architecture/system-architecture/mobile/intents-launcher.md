@@ -20,7 +20,7 @@ layout:
 
 The Simprints Intents Launcher is an app that simulates the [calling app](../../../product-overview/product-overview/data-collection-platforms/) for testing.
 
-### What does it do? (to POs) <a href="#what-does-it-do-to-pos" id="what-does-it-do-to-pos"></a>
+### What does it do? <a href="#what-does-it-do-to-pos" id="what-does-it-do-to-pos"></a>
 
 The main purpose is to ask [SID ](../../../product-overview/product-overview/simprints-id-sid.md)to do something and take a look at the responses we get. The process creates a call to SID (the action) and passes some parameters (the **key values**).
 
