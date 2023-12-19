@@ -1,56 +1,56 @@
 # Verification
 
-## Creating a new pet
+During verification, an individual’s biometric information is captured and compared against a single enrolled user ([Enrollment)](enrolment.md).
 
-{% swagger baseUrl="https://api.myapi.com/v1" method="post" path="/pet" summary="Create pet." %}
-{% swagger-description %}
-Creates a new pet.
-{% endswagger-description %}
+### User flow <a href="#user-flow" id="user-flow"></a>
 
-{% swagger-parameter in="body" name="name" required="true" type="string" %}
-The name of the pet
-{% endswagger-parameter %}
+Verification is started via a [calling app](../../product-overview/product-overview/data-collection-platforms/).
 
-{% swagger-parameter in="body" name="owner_id" required="false" type="string" %}
-The `id` of the user who owns the pet
-{% endswagger-parameter %}
+Depending on the modality configured for a project, the screens displayed in SID will either be:
 
-{% swagger-parameter in="body" name="species" required="false" type="string" %}
-The species of the pet
-{% endswagger-parameter %}
+* [Face Capture](../../product-overview/product-overview/biometrics/face-recognition.md)
+* [Fingerprint Capture](../../product-overview/product-overview/biometrics/fingerprints-recognition/)
 
-{% swagger-parameter in="body" name="breed" required="false" type="string" %}
-The breed of the pet
-{% endswagger-parameter %}
+Verification begins when the user completes the biometrics capture, and a decision will be returned to the calling app.
 
-{% swagger-response status="200" description="Pet successfully created" %}
-```javascript
-{
-    "name"="Wilson",
-    "owner": {
-        "id": "sha7891bikojbkreuy",
-        "name": "Samuel Passet",
-    "species": "Dog",}
-    "breed": "Golden Retriever",
-}
-```
-{% endswagger-response %}
+### Inputs <a href="#inputs" id="inputs"></a>
 
-{% swagger-response status="401" description="Permission denied" %}
+The calling app must send these values:
 
-{% endswagger-response %}
-{% endswagger %}
+* `projectId`
+* `userId`
+* `moduleId`
+* `verifyGuid`
 
-{% hint style="info" %}
-**Good to know:** This API method was created using the API Method block, it's how you can build out an API method documentation from scratch. Have a play with the block and you'll see you can do some nifty things like add and reorder parameters, document responses, and give your methods detailed descriptions.
-{% endhint %}
+### Return Values <a href="#return-values" id="return-values"></a>
 
-## Updating a pet
+These values are returned to the calling app:
 
-{% swagger src="https://petstore.swagger.io/v2/swagger.json" path="/pet" method="put" %}
-[https://petstore.swagger.io/v2/swagger.json](https://petstore.swagger.io/v2/swagger.json)
-{% endswagger %}
+* A single match record, including:
+  * `guid`
+  * `confidenceScore`
+  * `tier`
 
-{% hint style="info" %}
-**Good to know:** This API method was auto-generated from an example Swagger file. You'll see that it's not editable because the contents are synced to a URL! Any time the linked file changes, the documentation will change, too.
-{% endhint %}
+Trigger Verification
+
+To trigger a **verification** process, you need to do the following:
+
+
+
+<pre><code>// get the unique ID from the existing beneficiary's record
+<strong>String verifyGuid;
+</strong>
+// create an instance of SimHelper
+SimHelper simHelper = SimHelper("PROJECT ID", "USER ID");
+
+// create an Intent using the verify method on the SimHelper object using the unique ID
+Intent verificationIntent = simHelper.verify("MODULE ID", verifyGuid);
+
+// trigger the Intent using the 
+startActivityForResult
+ method
+startActivityForResult(verificationIntent, requestCode); 
+
+// requestCode is required for Android intents
+</code></pre>
+

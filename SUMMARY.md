@@ -30,7 +30,6 @@
     * [Simprints ID (SID)](architecture/system-architecture/mobile/simprints-id-sid/README.md)
       * [Project structure](architecture/system-architecture/mobile/simprints-id-sid/project-structure.md)
       * [Biometric flow orchestration](architecture/system-architecture/mobile/simprints-id-sid/biometric-flow-orchestration.md)
-      * [Dashboard](architecture/system-architecture/mobile/simprints-id-sid/dashboard.md)
     * [Intents Launcher](architecture/system-architecture/mobile/intents-launcher.md)
 
 ## Installation
