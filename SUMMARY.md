@@ -39,14 +39,6 @@
   * [Quick Start Guide](installation/installation-quick-start-and-device-requirements/quick-start-guide.md)
   * [Device Requirements](installation/installation-quick-start-and-device-requirements/device-requirements.md)
 
-## Usage & Functionality
-
-* [What can you do?](usage-and-functionality/what-can-you-do/README.md)
-  * [Enrolment](usage-and-functionality/what-can-you-do/enrolment.md)
-  * [Verification](usage-and-functionality/what-can-you-do/verification.md)
-  * [Identification](usage-and-functionality/what-can-you-do/identification.md)
-  * [Testing](usage-and-functionality/what-can-you-do/testing.md)
-
 ## Security & Privacy
 
 * [Security & Privacy Considerations](security-and-privacy/security-and-privacy-considerations/README.md)
