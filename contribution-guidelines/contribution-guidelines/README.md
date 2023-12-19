@@ -4,7 +4,7 @@ Welcome to the Simprints community! We are thrilled that you are interested in c
 
 ### Community Guidelines
 
-Before contributing, please familiarise yourself with our Community Guidelines. We expect all community members, including contributors, to adhere to these guidelines to create a friendly and inclusive environment for everyone. The guidelines can be found [here](./#community-guidelines).
+Before contributing, please familiarise yourself with our Community Guidelines. We expect all community members, including contributors, to adhere to these guidelines to create a friendly and inclusive environment for everyone. The guidelines can be found [here](../../community-and-support/community-guidelines.md).
 
 ### Finding a Project to Contribute
 
