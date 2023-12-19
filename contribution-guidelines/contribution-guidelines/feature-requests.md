@@ -18,8 +18,8 @@ We encourage you to submit feature requests for our projects through GitHub Issu
 
 **Using GitHub Issues:**
 
-1. **Navigate to the GitHub repository:** Visit the GitHub repository you wish to raise a feature request for.
-2. **Access the Issues tab:** Click on the "Issues" tab in the repository's navigation bar.
+1. **Navigate to the GitHub repository:** Visit the GitHub repository you wish to raise a feature request for. (Currently only [Android-Simprints-ID](https://github.com/Simprints/Android-Simprints-ID))
+2. **Access the Issues tab:** Click on the "[Issues](https://github.com/Simprints/Android-Simprints-ID/issues)" tab in the repository's navigation bar.
 3. **Create a new issue:** Click on the "New issue" button at the top of the Issues page.
 4. **Provide a descriptive title:** Title your issue to represent the feature request accurately.
 5. **Write a detailed explanation:** Describe the feature you propose, including its purpose, benefits, and any relevant context.
