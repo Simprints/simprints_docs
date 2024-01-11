@@ -4,6 +4,19 @@
 
 Simprints is committed to protecting the security of data. We employ a comprehensive security policy encompassing our development, operations, and infrastructure management practices. This policy aligns with our commitment to data privacy and transparency, as our [Privacy Policy](privacy-policy.md) outlines.
 
+**Reporting a Vulnerability**
+
+Please report any security vulnerabilities you find to securityreport@simprints.com. We appreciate your help in keeping Simprints secure!
+
+Here's what you can expect when you report a vulnerability:
+
+* Review: We will review all reported vulnerabilities. Response: You will receive an initial response acknowledging your report.&#x20;
+* Acceptance/Decline: We will let you know whether we accept the vulnerability as a valid security issue as soon as possible.&#x20;
+* Fix and Release: If we accept the vulnerability, we will work to fix it and release a patch as soon as possible.&#x20;
+* Credits: We will publicly credit you for finding the vulnerability unless you request otherwise. Additional&#x20;
+
+You can also report security vulnerabilities through the security page on the GitHub repository.
+
 **Threat Monitoring**
 
 Our engineering team monitors various sources for potential security threats and promptly responds to identified risks. This proactive approach ensures that we are prepared to address emerging threats and maintain the integrity of our systems.
@@ -18,7 +31,7 @@ We closely monitor our infrastructure providers for indications of attacks or ma
 
 **Security Incident Response**
 
-In the event of a security incident, Simprints has established a comprehensive incident response that outlines the procedures for identifying, containing, and remediating an incident. This ensures we effectively address security breaches and maintain the confidentiality, integrity, and availability of our systems and data.
+In the event of a security incident, Simprints has established a comprehensive incident response that outlines the procedures for identifying, containing, and remediating an incident. This ensures we effectively address security breaches and maintain our systems and data's confidentiality, integrity, and availability.
 
 **Continuous Security Improvement**
 

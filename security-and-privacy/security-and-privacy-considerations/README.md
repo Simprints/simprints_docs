@@ -2,9 +2,6 @@
 
 This document details known security and privacy considerations of the Simprints software.
 
-\
-Sure, here is a more friendly rewrite of the text:
-
 **License**
 
 Our source code repositories are licensed under the Mozilla Public License 2.0. Please refer to the [license agreement ](../../licence.md)for more details.
