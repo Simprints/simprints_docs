@@ -6,6 +6,6 @@ This section contains information about the mobile elements of Simprints.
 [simprints-id-sid](simprints-id-sid/)
 {% endcontent-ref %}
 
-{% content-ref url="intents-launcher.md" %}
-[intents-launcher.md](intents-launcher.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

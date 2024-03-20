@@ -16,7 +16,7 @@
     * [Fingerprints Recognition](product-overview/product-overview/biometrics/fingerprints-recognition/README.md)
       * [Vero Fingerprint Scanners](product-overview/product-overview/biometrics/fingerprints-recognition/vero-fingerprint-scanners.md)
     * [Face Recognition](product-overview/product-overview/biometrics/face-recognition.md)
-  * [Intents Launcher](product-overview/product-overview/intents-launcher.md)
+  * [SID Intents Launcher](product-overview/product-overview/sid-intents-launcher.md)
   * [Cloud Backend](product-overview/product-overview/cloud-backend.md)
   * [Data Collection Platforms](product-overview/product-overview/data-collection-platforms/README.md)
     * [DHIS2](product-overview/product-overview/data-collection-platforms/dhis2.md)
@@ -30,7 +30,6 @@
     * [Simprints ID (SID)](architecture/system-architecture/mobile/simprints-id-sid/README.md)
       * [Project structure](architecture/system-architecture/mobile/simprints-id-sid/project-structure.md)
       * [Biometric flow orchestration](architecture/system-architecture/mobile/simprints-id-sid/biometric-flow-orchestration.md)
-    * [Intents Launcher](architecture/system-architecture/mobile/intents-launcher.md)
 
 ## Installation
 

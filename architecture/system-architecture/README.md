@@ -7,7 +7,7 @@ Our Simprints architecture falls into the following main elements:
 ### [**Mobile**](mobile/)
 
 * [Simprints ID](mobile/simprints-id-sid/) (known as SID)
-* [Intents Launcher ](mobile/intents-launcher.md)
+* [Intents Launcher ](broken-reference)
 * Vero Fingerprint Scanner
 
 ### Cloud
