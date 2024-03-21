@@ -49,6 +49,28 @@
 ## Development
 
 * [Getting setup](development/getting-setup.md)
+* [Simprints for Developers](development/simprints-for-developers/README.md)
+  * [Simprints for Developers](development/simprints-for-developers/simprints-for-developers.md)
+  * [Integrating with Simprints](development/simprints-for-developers/integrating-with-simprints/README.md)
+    * [Getting Started](development/simprints-for-developers/integrating-with-simprints/getting-started.md)
+    * [Enrollment](development/simprints-for-developers/integrating-with-simprints/enrollment.md)
+    * [Identification](development/simprints-for-developers/integrating-with-simprints/identification.md)
+    * [Verification](development/simprints-for-developers/integrating-with-simprints/verification.md)
+    * [Exit Forms](development/simprints-for-developers/integrating-with-simprints/exit-forms.md)
+    * [Tiers & Confidence Scores](development/simprints-for-developers/integrating-with-simprints/tiers-and-confidence-scores.md)
+    * [Enrolment & Identification +](development/simprints-for-developers/integrating-with-simprints/enrolment-and-identification-+.md)
+    * [Handling Errors](development/simprints-for-developers/integrating-with-simprints/handling-errors.md)
+    * [Metadata](development/simprints-for-developers/integrating-with-simprints/metadata.md)
+  * [Other Intergrations](development/simprints-for-developers/other-intergrations/README.md)
+    * [ODK Integrations + SurveyCTO](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/README.md)
+      * [Enrol](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/enrol.md)
+      * [Identify](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/identify.md)
+      * [Verify](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/verify.md)
+      * [FAQ](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/faq.md)
+    * [CommCare Integration](development/simprints-for-developers/other-intergrations/commcare-integration/README.md)
+      * [CommCare: Enrolment](development/simprints-for-developers/other-intergrations/commcare-integration/commcare-enrolment.md)
+      * [Identification](development/simprints-for-developers/other-intergrations/commcare-integration/identification.md)
+      * [FAQs](development/simprints-for-developers/other-intergrations/commcare-integration/faqs.md)
 
 ## Troubleshooting
 
