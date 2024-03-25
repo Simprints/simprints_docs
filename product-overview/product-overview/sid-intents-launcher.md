@@ -15,7 +15,7 @@ layout:
 # SID Intents Launcher
 
 {% hint style="info" %}
-Release Q1 2024
+Released Q1 2024
 {% endhint %}
 
 [SID Intents Launcher](https://github.com/Simprints/SID-Intent-Launcher) is an app that simulates a [calling app](data-collection-platforms/) for testing.&#x20;
