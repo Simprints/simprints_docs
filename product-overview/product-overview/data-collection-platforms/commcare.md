@@ -6,4 +6,6 @@ Simprints integrates with CommCare, allowing frontline workers to enrol and link
 
 If you want to learn more about how CommCare works check out their [getting started](https://www.dimagi.com/getting-started/) page.
 
-[Please click here](https://sites.google.com/simprints.com/simprints-for-developers/other-integrations/commcare?authuser=0) For more information on how to integrate Simprints with CommCare.
+{% hint style="info" %}
+[Please click here](../../../development/simprints-for-developers/other-intergrations/commcare-integration/) For more information on how to integrate Simprints with CommCare.
+{% endhint %}

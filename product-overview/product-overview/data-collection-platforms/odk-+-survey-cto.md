@@ -8,6 +8,8 @@ In some contexts, asking to scan people’s fingerprints can be unfamiliar and i
 
 In this guide, we will show you how to integrate your ODK enrollment/registration or verification form with Simprints ID. The sample forms we use in this guide are the bare minimum that a form should have, and in real-case scenarios, your forms will likely have more content than what is shown in this guide.
 
-[Please click here](https://sites.google.com/simprints.com/simprints-for-developers/other-integrations/odk-surverycto?authuser=0) For more information on how to integrate Simprints with ODK Platforms.
-
 For more information specifically on Survey CTO, visit their [website](https://www.surveycto.com/). &#x20;
+
+{% hint style="info" %}
+[Please click here](../../../development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/) For more information on how to integrate Simprints with ODK Platforms.
+{% endhint %}

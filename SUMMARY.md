@@ -71,6 +71,7 @@
       * [CommCare: Enrolment](development/simprints-for-developers/other-intergrations/commcare-integration/commcare-enrolment.md)
       * [Identification](development/simprints-for-developers/other-intergrations/commcare-integration/identification.md)
       * [FAQs](development/simprints-for-developers/other-intergrations/commcare-integration/faqs.md)
+    * [DHIS2](development/simprints-for-developers/other-intergrations/dhis2.md)
 
 ## Troubleshooting
 
