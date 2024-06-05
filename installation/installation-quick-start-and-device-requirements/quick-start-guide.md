@@ -50,7 +50,7 @@ SID is not a standalone application; it requires a **calling app** to open each 
 * In a real project, the calling app would be a fully-fledged health record collection app (such as DHIS2 or CommCare)
 * For this guide, we will use Simprints Intents Launcher (launching February 2024), a calling app developed by Simprints to test SID.
 
-Download link for Intents Launcher.
+[Download link for Intents Launcher](https://github.com/Simprints/SID-Intent-Launcher/releases).
 
 Install the APK on your phone
 
@@ -87,14 +87,23 @@ Projects are created and configured in **Vulcan (Not currently open source)**.
 You’re at the home stretch! Let’s perform an **Enrollment** to capture your biometric data to be checked against later.
 
 1. Open Intents Launcher
-2. Tap “Enrol in SID”
-3. Fill in `projectId` with the Project ID given to you by&#x20;
+2. Fill in `projectId` with the Project ID given to you by Simprints
+3. You can use any `User Id` and `Module Id` (for instance "User1" and "Module1")
 4. Leave all other fields as they are
-5. &#x20;![](<../../.gitbook/assets/c0ecc65e-ec70-40dc-9cf3-623bf8f545d7 (1).png>)
-6. Tap Execute (this will open SID)
-7. Login to SID by scanning the QR code generated in Vulcan
-8. Follow the steps in SID to enroll
-9. View the response in Intents Launcher.
+5. Tap Enroll (this will open SID)
+6. Login to SID by scanning the QR code generated in Vulcan
+7. Follow the steps in SID to enroll
+8. View the response in Intents Launcher.
+
+<div align="center">
+
+<figure><img src="../../.gitbook/assets/Screenshot_2024-06-03-12-36-20-988_com.simprints.intentlauncher.jpg" alt="" width="188"><figcaption><p>Setup to Enroll</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot_2024-06-03-12-36-40-496_com.simprints.intentlauncher.jpg" alt="" width="188"><figcaption><p>Result after enroll</p></figcaption></figure>
+
+</div>
 
 Hopefully, you don’t experience any errors here. However, if you see something like “Invalid User ID” or “Invalid Project ID”, go back a step and check your Project configuration.
 
@@ -103,13 +112,21 @@ Hopefully, you don’t experience any errors here. However, if you see something
 Last part! Let’s perform an **Identification** to check if we can find the biometric record you created in the last step.
 
 1. Open Intents Launcher
-2. Tap “Identify in SID”
-3. Fill in `projectId` with the Project ID generated in Vulcan
-4. Tap Execute (this will open SID)
+2. Fill in `Project Id` with the Project ID generated in Vulcan
+3. You can use any `User Id` and `Module Id` (for instance "User1" and "Module1")
+4. Tap Identify (this will open SID)
 5. Follow the steps in SID
 6. View the response; it should look something like this:
 
-![](../../.gitbook/assets/Screenshot\_20230919-153356.png)
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot_2024-06-03-12-36-20-988_com.simprints.intentlauncher.jpg" alt="" width="188"><figcaption><p>Setup to Identification is the same as for Enroll</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot_2024-06-03-12-37-11-837_com.simprints.intentlauncher.jpg" alt="" width="188"><figcaption><p>Result of identification</p></figcaption></figure>
+
+</div>
 
 ## 🔮 What’s next? <a href="#whats-next" id="whats-next"></a>
 
