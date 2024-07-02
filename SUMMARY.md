@@ -100,3 +100,7 @@
   * [Code Contributions](contribution-guidelines/contribution-guidelines/code-contributions.md)
   * [Bug Reports](contribution-guidelines/contribution-guidelines/bug-reports.md)
   * [Feature Requests](contribution-guidelines/contribution-guidelines/feature-requests.md)
+
+***
+
+* [Supporting Partners](supporting-partners.md)
