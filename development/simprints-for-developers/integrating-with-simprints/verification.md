@@ -62,34 +62,38 @@ Note: The **confidence** and **tier** values can then be used to determine the r
 ```
 import com.simprints.libsimprints.Constants;
 
+private void handleVerification(Intent data) {
 
+   // get the boolean flag to check if biometrics completed successfully
+   Boolean biometricsCompleted = data.getBooleanExtra(Constants.SIMPRINTS_BIOMETRICS_COMPLETE_CHECK);
+
+   if (biometricsCompleted) {
+      // extract the returned Verification object
+      Verification verification = data.getParcelableExtra(Constants.SIMPRINTS_VERIFICATION);
+
+      // get tier and confidence score
+      Tier tier = verification.getTier()
+      float confidence = verification.getConfidence();
+   }
+}
+```
+
+### Verification Judgement
+
+Starting with **Simprints ID** v2024.2.0 along with the Verification object, a "verification judgement" result will be returned. It's name is **SIMPRINTS\_VERIFICATION\_SUCCESS**, it's a **Boolean** and will indicate whether the verification is considered successful based on a verification match threshold set in the project settings.
+
+```
+import com.simprints.libsimprints.Constants;
 
 private void handleVerification(Intent data) {
 
+   // get the boolean flag to check if biometrics completed successfully
+   Boolean biometricsCompleted = data.getBooleanExtra(Constants.SIMPRINTS_BIOMETRICS_COMPLETE_CHECK);
 
-
-// get the boolean flag to check if biometrics completed successfully
-
-Boolean biometricsCompleted = data.getBooleanExtra(Constants.SIMPRINTS_BIOMETRICS_COMPLETE_CHECK);
-
-
-
-if (biometricsCompleted) {
-
-   // extract the returned Verification object
-
-   Verification verification = data.getParcelableExtra(Constants.SIMPRINTS_VERIFICATION);
-
-
-
-   // get tier and confidence score
-
-   Tier tier = verification.getTier()
-
-   float confidence = verification.getConfidence();
-
-}
-
+   if (biometricsCompleted) {
+      // extract the verification judgement
+      Boolean verificationIsSuccessful = data.getBooleanExtra(Constants.SIMPRINTS_VERIFICATION_SUCCESS);
+   }
 }
 ```
 

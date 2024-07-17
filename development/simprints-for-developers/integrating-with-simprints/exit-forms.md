@@ -83,4 +83,5 @@ These are the reasons that **Simprints ID** can return:
 * APP\_NOT\_WORKING - returned when SID app stops working during biometric capture
 * REFUSED\_NOT\_PRESENT - returned when the beneficiary to be captured is not present themselves
 * REFUSED\_YOUNG - returned when the beneficiary to be captured is too young
+* WRONG\_AGE\_GROUP\_SELECTED - returned when a wrong choice was made on the age selection screen
 * OTHER - returned when some other reason for refusal, has been provided.

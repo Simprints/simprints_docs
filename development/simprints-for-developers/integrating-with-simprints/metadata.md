@@ -40,3 +40,12 @@ The Metadata class will throw an exception for two reason:
     ]
 }
 ```
+
+### Subject Age metadata parameter
+
+For projects that have age restriction (e.g. only work with subjects between 9 and 60 months old) **Simprints ID** will expect the subject's age to be passed along in the **Metadata** for Enrollment and Verification callouts. Name of the parameter is **subjectAge**, it should be of type **Long** and contain the subject's age **in months**:
+
+```
+Metadata metadata = new Metadata()
+                      .put("subjectAge", 30); // subject is 30 months old
+```
