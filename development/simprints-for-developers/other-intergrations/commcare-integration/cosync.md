@@ -38,3 +38,7 @@ In order for Simprints ID to use CommCare as the data source for biometric data 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-06-24 at 18.08.52.png" alt=""><figcaption></figcaption></figure>
 
 (Note: Reading biometric data from CommCare is only available from Simprints ID v2024.1.3 on)
+
+#### Enrolment+ with CoSync
+
+If you are going to use Enrolment+ together with CoSync then you need to set the `biometricDataSource = 'CommCare'` extra in the REGISTER callout (see [section above](https://simprints.gitbook.io/docs/development/simprints-for-developers/other-intergrations/commcare-integration/cosync#saving-the-biometric-data)), too. This is so the biometric search before enrolling a subject uses CommCare as the data source.
