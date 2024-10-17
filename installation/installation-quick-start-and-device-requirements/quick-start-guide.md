@@ -70,7 +70,7 @@ Unfortunately, we cannot release these to our open-source users. If you want to 
 
 **Fingerprint**
 
-If you own a Vero scanner and want to use Fingerprint as your modality, you are in luck as Simprints has developed its Fingerprint algorithm, and you don’t need to do anything to provision it.
+If you own a Vero scanner and want to use Fingerprint as your modality, you are in luck as Simprints has developed its Fingerprint algorithm, and although the algorithm isn't yet open source, you don’t need to do anything to provision it.
 
 ## 📂 Create a project <a href="#create-a-project" id="create-a-project"></a>
 
