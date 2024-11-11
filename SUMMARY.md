@@ -83,6 +83,7 @@
 
 * [Support Channels](community-and-support/support-channels.md)
 * [Community Guidelines](community-and-support/community-guidelines.md)
+* [Open Source Contributions](community-and-support/open-source-contributions.md)
 
 ## Product Roadmap
 
