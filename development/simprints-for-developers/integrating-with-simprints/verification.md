@@ -78,9 +78,9 @@ private void handleVerification(Intent data) {
 }
 ```
 
-### Verification Judgement
+### Verification Decision Threshold
 
-Starting with **Simprints ID** v2024.2.0 along with the Verification object, a "verification judgement" result will be returned. It's name is **SIMPRINTS\_VERIFICATION\_SUCCESS**, it's a **Boolean** and will indicate whether the verification is considered successful based on a verification match threshold set in the project settings.
+Starting with **Simprints ID** v2024.2.0 along with the Verification object, a "verification decision" result will be returned. It's name is **SIMPRINTS\_VERIFICATION\_SUCCESS**, it's a **Boolean** and will indicate whether the verification is considered successful based on a verification decision threshold set in the project settings.
 
 ```
 import com.simprints.libsimprints.Constants;
@@ -91,7 +91,7 @@ private void handleVerification(Intent data) {
    Boolean biometricsCompleted = data.getBooleanExtra(Constants.SIMPRINTS_BIOMETRICS_COMPLETE_CHECK);
 
    if (biometricsCompleted) {
-      // extract the verification judgement
+      // extract the verification decision
       Boolean verificationIsSuccessful = data.getBooleanExtra(Constants.SIMPRINTS_VERIFICATION_SUCCESS);
    }
 }
