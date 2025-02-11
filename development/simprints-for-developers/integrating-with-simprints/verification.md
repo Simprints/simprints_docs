@@ -78,7 +78,7 @@ private void handleVerification(Intent data) {
 }
 ```
 
-### Verification Decision Threshold
+### Verification Decision Policy
 
 Starting with **Simprints ID** v2024.2.0 along with the Verification object, a "verification decision" result will be returned. It's name is **SIMPRINTS\_VERIFICATION\_SUCCESS**, it's a **Boolean** and will indicate whether the verification is considered successful based on a verification decision threshold set in the project settings.
 
