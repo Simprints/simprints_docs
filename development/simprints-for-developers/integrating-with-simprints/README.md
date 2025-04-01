@@ -32,6 +32,6 @@ That is **Simprints ID** in a nutshell! Enroll, verify or identify a person duri
 * [Verification](verification.md)
 * [Enrolment+ & Identification+](enrollment.md)
 * [Exit Forms](exit-forms.md)
-* [Tiers & Confidence Scores](tiers-and-confidence-scores.md)
+* [Tiers & Confidence Scores](confidence-score-bands.md)
 * [Handling Errors](handling-errors.md)
 * [Metadata](metadata.md)

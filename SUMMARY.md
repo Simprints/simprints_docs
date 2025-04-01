@@ -57,7 +57,7 @@
     * [Identification](development/simprints-for-developers/integrating-with-simprints/identification.md)
     * [Verification](development/simprints-for-developers/integrating-with-simprints/verification.md)
     * [Exit Forms](development/simprints-for-developers/integrating-with-simprints/exit-forms.md)
-    * [Tiers & Confidence Scores](development/simprints-for-developers/integrating-with-simprints/tiers-and-confidence-scores.md)
+    * [Confidence Score Bands](development/simprints-for-developers/integrating-with-simprints/confidence-score-bands.md)
     * [Enrolment & Identification +](development/simprints-for-developers/integrating-with-simprints/enrolment-and-identification-+.md)
     * [Handling Errors](development/simprints-for-developers/integrating-with-simprints/handling-errors.md)
     * [Metadata](development/simprints-for-developers/integrating-with-simprints/metadata.md)

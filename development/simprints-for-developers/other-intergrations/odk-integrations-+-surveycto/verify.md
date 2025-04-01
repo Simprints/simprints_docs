@@ -75,7 +75,7 @@ com.simprints.simodkadapter.VERIFY(projectId=${project_id}, userId=${user_id}, m
 
 After collecting a beneficiary's biometrics you will want to check if the biometrics collected matches the enrolled GUID record (refer to rows 19-22 in the sample form).
 
-**Step 8:** Add the following questions to extract the top match scores, [tiers](../../integrating-with-simprints/tiers-and-confidence-scores.md), GUIDs and session ID:
+**Step 8:** Add the following questions to extract the top match scores, [tiers](../../integrating-with-simprints/confidence-score-bands.md), GUIDs and session ID:
 
 * text: odk-confidences
 * text: odk-tiers
@@ -96,7 +96,7 @@ In the label column:
 
 To add a check on whether a user has completed a Simprints flow, use the Biometrics Complete check boolean (refer to row 23 of sample form).
 
-To find out more about Biometrics Complete check, click [here](../../integrating-with-simprints/tiers-and-confidence-scores.md).
+To find out more about Biometrics Complete check, click [here](../../integrating-with-simprints/confidence-score-bands.md).
 
 **Step 9:** Add a new question with the name
 

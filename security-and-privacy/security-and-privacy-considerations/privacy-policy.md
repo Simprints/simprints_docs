@@ -48,15 +48,15 @@ Your personal data may be deleted before the data retention period if we receive
 Depending upon the data we collect from you, Simprints and / or its partner may use a variety of routes in law - the ‘Lawful Basis’ - to process data that relates to you. This section outlines when these may be used.
 
 **General Information**\
-‍_Lawful Basis: Consent or Legitimate Interests_\
-_‍_For example, Simprints may collect your personal data as part of your access and use of its Website, social media platforms, SID mobile application, Vero 1.0 or Vero 2.0 scanners, conversations or correspondence with its Employees, events registration, Simprints’ subscriptions such as external newsletters or publications, as well as information collected as part of a complaints mechanism or inquiry.&#x20;
+&#x200D;_&#x4C;awful Basis: Consent or Legitimate Interests_\
+&#xNAN;_&#x200D;_&#x46;or example, Simprints may collect your personal data as part of your access and use of its Website, social media platforms, SID mobile application, Vero 1.0 or Vero 2.0 scanners, conversations or correspondence with its Employees, events registration, Simprints’ subscriptions such as external newsletters or publications, as well as information collected as part of a complaints mechanism or inquiry.&#x20;
 
 This may include, but is not limited to information such as your first and last name, email address, location data, SID metadata, consent, or cookie preferences. For detailed information on the cookies we use on our Website and their purposes, please see our Cookie Policy below.
 
 Where Legitimate Interest is the basis chosen for this data, it will be for the Interest of undertaking Simprints’ various program activities in order to further work in Public Health, Development, and Sustainable Development Goals, and other commercial, research,  and partnership objectives supporting this work.
 
 **Biometric Information**\
-‍_Lawful Basis: Legitimate Interests or Public Task_
+&#x200D;_&#x4C;awful Basis: Legitimate Interests or Public Task_
 
 _‍_
 
@@ -77,12 +77,12 @@ Where Simprints is the Controller, we will always give you the option of an alte
 Where Legitimate Interest is the basis chosen for this data, it will be for the Interest of undertaking Simprints’ various program activities in order to further work in Public Health, Development, and Sustainable Development Goals, and other commercial, research, and partnership objectives supporting this work - in particular, where the objectives of the project cannot be met without using biometric information which identifies the participants in question.
 
 **Financial Information**\
-‍_Lawful Basis: Legitimate Interests_\
-_‍_Simprints relies on legitimate interest as its lawful basis to collect, process, and store business / financial information on our Partners, Funders, Sub-Processors, or Suppliers in order to be able to pay the entities or be paid by them for our Services. This may include, but is not limited to details of bank accounts and company representatives.
+&#x200D;_&#x4C;awful Basis: Legitimate Interests_\
+&#xNAN;_&#x200D;_&#x53;imprints relies on legitimate interest as its lawful basis to collect, process, and store business / financial information on our Partners, Funders, Sub-Processors, or Suppliers in order to be able to pay the entities or be paid by them for our Services. This may include, but is not limited to details of bank accounts and company representatives.
 
 **Recruitment and Employee Information**\
-_Lawful Basis: Consent, Contract, or Legal Obligation_\
-_‍_Simprints holds personal data on past, current, and future employees in order to enter into employment contracts or because we have legal obligations to hold it for taxation purposes. This may include, but is not limited to education and previous employment details, proof of income, contact details, and details supporting mitigating circumstances.
+&#xNAN;_&#x4C;awful Basis: Consent, Contract, or Legal Obligation_\
+&#xNAN;_&#x200D;_&#x53;imprints holds personal data on past, current, and future employees in order to enter into employment contracts or because we have legal obligations to hold it for taxation purposes. This may include, but is not limited to education and previous employment details, proof of income, contact details, and details supporting mitigating circumstances.
 
 Where Legitimate Interest is the basis chosen for this data, it will be for the Interest of undertaking Simprints’ various commercial, research,  business, and partnership objectives supporting its work to further the implementation of the Sustainable Development Goals and undertake other programmatic work supporting the treatment of preventable health conditions, implementation of humanitarian aid or development assistance.[‍](https://support.google.com/accounts/answer/32050?hl=en\&co=GENIE.Platform%3DDesktop)‍
 

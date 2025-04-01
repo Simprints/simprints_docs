@@ -5,26 +5,22 @@
 When a biometric flow fails, it can be due to a number of reasons outside an [exit form](exit-forms.md). Those errors appear for the user in the form of coloured screens. So when handling the result from a flow and an error occurs, you can get access to what type of error occurred using the **Constants** class.\
 Extracting the error:
 
-```
-import com.simprints.libsimprints.Constants;
+```kotlin
 
-override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+val simprintsLauncher = registerForActivityResult(SimprintsContract()) { response ->
+    
+    if (response.resultCode != Activity.RESULT_OK) {
+       // the result code will correspond to one of the pre-defined constants
 
-   super.onActivityResult(requestCode, resultCode, data)
-
-   // ensure that the result status is OK
-   if (resultCode != Activity.RESULT_OK) {
-
-      //...code to extract the error that occurred
-      // using the Constants class
-
-      // for instance, an error due to invalid project id
-      boolean isProjectIdError = resultCode == Constants.SIMPRINTS_INVALID_PROJECT_ID
-
-
-   } else {
-      //...code to handle success case
-   }
+        when (response.resultCode) {
+            Constants.SIMPRINTS_INVALID_PROJECT_ID -> {
+             // the error is due to invalid project ID
+            }
+            // handle other codes
+        }
+    }
+ 
+    // handle response data
 }
 ```
 

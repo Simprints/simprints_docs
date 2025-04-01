@@ -65,7 +65,7 @@ These steps will enable each beneficiary's biometrics record to be associated wi
 
 <figure><img src="../../../../.gitbook/assets/guid.png" alt=""><figcaption></figcaption></figure>
 
-In your CommCare form, you can check if a user has completed a Simprints session. A completed Simprints session could either be a successful enrolment or a beneficiary declining Simprints. Find out more about Biometrics Complete Check [here](../../integrating-with-simprints/tiers-and-confidence-scores.md).
+In your CommCare form, you can check if a user has completed a Simprints session. A completed Simprints session could either be a successful enrolment or a beneficiary declining Simprints. Find out more about Biometrics Complete Check [here](../../integrating-with-simprints/confidence-score-bands.md).
 
 If a frontline worker has not completed a Simprints session, you may add logic in your form to prevent them from continuing with their workflow.
 

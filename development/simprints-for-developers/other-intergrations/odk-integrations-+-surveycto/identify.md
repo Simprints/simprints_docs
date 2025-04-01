@@ -2,13 +2,13 @@
 
 **Identification** is used when you want to identify a beneficiary from a group of people using their biometrics. During an identification, Simprints ID will collect biometrics from a beneficiary, search through a group of people and return a list of the most likely matches to the ODK form.
 
-**The steps below references this example form for identification (**[**link**](https://docs.google.com/spreadsheets/d/1FqB\_\_8lOO9mq\_9pvtCLsqCjVrMWg7Tvk/edit#gid=1155146989)**).**
+**The steps below references this example form for identification (**[**link**](https://docs.google.com/spreadsheets/d/1FqB__8lOO9mq_9pvtCLsqCjVrMWg7Tvk/edit#gid=1155146989)**).**
 
 ### Run an identification <a href="#h.p_fvtdli8isyej_l" id="h.p_fvtdli8isyej_l"></a>
 
 **Step 1:** Before starting to build your identification form, do check you have the reference form and the correct columns in your form:
 
-Open your XML identification form and have the sample form provided as a reference ([link](https://docs.google.com/spreadsheets/d/1FqB\_\_8lOO9mq\_9pvtCLsqCjVrMWg7Tvk/edit#gid=1155146989)).
+Open your XML identification form and have the sample form provided as a reference ([link](https://docs.google.com/spreadsheets/d/1FqB__8lOO9mq_9pvtCLsqCjVrMWg7Tvk/edit#gid=1155146989)).
 
 **Step 2:** Check that these columns are present in your XML form. If not, add them:
 
@@ -63,7 +63,7 @@ com.simprints.simodkadapter.IDENTIFY(projectId=${project_id}, userId=${user_id},
 
 **Step 7:** After collecting a beneficiary's biometrics and matching their biometrics across a database, you will want to extract the list of top matches. The user will then be able to select the correct beneficiary from the list of top matches.
 
-Add the following questions to extract the top match scores, [tiers](../../integrating-with-simprints/tiers-and-confidence-scores.md), GUIDs and session ID. The _type_ for all of these is **text**. The following go in the _name_ column (to see what we put in the label column, please reference the sample form at the bottom of this page).
+Add the following questions to extract the top match scores, [tiers](../../integrating-with-simprints/confidence-score-bands.md), GUIDs and session ID. The _type_ for all of these is **text**. The following go in the _name_ column (to see what we put in the label column, please reference the sample form at the bottom of this page).
 
 * odk-guids
 * odk-confidences
@@ -93,7 +93,7 @@ Add the following questions to extract the top match scores, [tiers](../../integ
 
 **odk-highest-match-confidence-flag:** this is a separate response which denotes the highest flag out of the returned results. Similar to odk-match-confidence-flags, this can help make the logic used in the form more flexible.
 
-**odk-identify-biometrics-check:** callback from Simprints that denotes when a Simprints session has been completed by a user. Making this question required will ensure that a user has to callout to Simprints and can not skip the Simprints question. Adding a constraint (when the check = true) will mean a user can not move forward in their workflow unless they have completed a session in Simprints. To find out more about Biometrics Complete check, click [here](../../integrating-with-simprints/tiers-and-confidence-scores.md).
+**odk-identify-biometrics-check:** callback from Simprints that denotes when a Simprints session has been completed by a user. Making this question required will ensure that a user has to callout to Simprints and can not skip the Simprints question. Adding a constraint (when the check = true) will mean a user can not move forward in their workflow unless they have completed a session in Simprints. To find out more about Biometrics Complete check, click [here](../../integrating-with-simprints/confidence-score-bands.md).
 
 \***odk-exit-reason:** when a user submits an exit form in Simprints, ODK will be able to capture the exit reason. This field will only populate, when a user submits an exit form in Simprints.
 
@@ -195,7 +195,7 @@ com.simprints.simodkadapter.CONFIRM_IDENTITY(projectId=${project_id}, sessionId=
 
 To add a check on whether a user has completed the identification outcome callout, use the Biometrics Complete check boolean (refer to row 48 of sample form).
 
-To find out more about Biometrics Complete check, click [here](../../integrating-with-simprints/tiers-and-confidence-scores.md).
+To find out more about Biometrics Complete check, click [here](../../integrating-with-simprints/confidence-score-bands.md).
 
 **Step 16:** Add a new question with the name
 
