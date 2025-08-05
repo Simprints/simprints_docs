@@ -46,7 +46,7 @@ val simprintsLauncher = registerForActivityResult(SimprintsContract()) { respons
         // check-out Handling Errors page for reference
     }
 
-    if (response.refusalForm != null) {
+    if (response.refusal != null) {
        // check-out Exit Form handling
     }
 

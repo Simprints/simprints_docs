@@ -25,9 +25,9 @@ val simprintsLauncher = registerForActivityResult(SimprintsContract()) { respons
         // check-out Handling Errors page for reference
     }
     
-    if (response.refusalForm != null) {
-        val reason = response.refusalForm.reason
-        val extra = response.refusalForm.extra
+    if (response.refusal != null) {
+        val reason = response.refusal.reason
+        val extra = response.refusal.extra
     }
 
     // Handle response data
