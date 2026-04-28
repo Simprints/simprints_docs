@@ -71,4 +71,4 @@ Step 12: Go to Add Question > Add a Label
 
 Congratulations! You have now integrated CommCare with Simprints ID for identification.
 
-\
+<br>
