@@ -32,6 +32,8 @@ This generated ranked list contains records with each having the following prope
 * **guid** - the unique ID for the biometric record
 * **confidence** - the level of confidence to which the record matches the captured biometric
 * **confidenceBand** - descriptor of confidence level based on the project configuration (HIGH/MEDIUM/LOW)
+* **isLinkedToCredential** - a flag that indicates that this unique ID is tied to an external credential
+* **isCredentialVerified** - a flag that indicates that external credential has been validated during identification
 
 Note:  The confidence and tier values can then be used to determine the ranking and accuracy for the matched biometric record. To get more info on this, [check here](confidence-score-bands.md).
 

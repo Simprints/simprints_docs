@@ -41,6 +41,11 @@ val simprintsLauncher = registerForActivityResult(SimprintsContract()) { respons
         // this is the GUID to be saved with the person's data
         val simprintsUniqueId = response.enrolment.guid
     }
+    
+    if (response.hasCredential == true) {
+        // this is the external credential captured during enrolment
+        val externalCredential = response.scannedCredential
+    }
 }
 ```
 
