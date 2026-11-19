@@ -62,7 +62,7 @@
     * [Handling Errors](development/simprints-for-developers/integrating-with-simprints/handling-errors.md)
     * [Metadata](development/simprints-for-developers/integrating-with-simprints/metadata.md)
   * [Other Intergrations](development/simprints-for-developers/other-intergrations/README.md)
-    * [ODK Integrations + SurveyCTO](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/README.md)
+    * [ODK (SurveyCTO/KoboToolbox)](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/README.md)
       * [Enrol](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/enrol.md)
       * [Identify](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/identify.md)
       * [Verify](development/simprints-for-developers/other-intergrations/odk-integrations-+-surveycto/verify.md)
