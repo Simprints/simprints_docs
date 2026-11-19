@@ -17,7 +17,7 @@ In this guide, we will show you how to integrate your ODK enrolment/registration
 * Access to ODK XML forms
 * Some basic form-building knowledge with ODK
 
-\*If using SurveyCTO, access to their web platform ([link](https://www.surveycto.com/)) and SurveyCTO collect mobile app ([link](https://play.google.com/store/apps/details?id=com.surveycto.collect.android\&hl=en\_GB\&pli=1))
+\*If using SurveyCTO, access to their web platform ([link](https://www.surveycto.com/)) and SurveyCTO collect mobile app ([link](https://play.google.com/store/apps/details?id=com.surveycto.collect.android\&hl=en_GB\&pli=1))
 
 ### Simprints <a href="#h.p_vkfldqqqyekt_l" id="h.p_vkfldqqqyekt_l"></a>
 
@@ -41,3 +41,15 @@ Simprints offers three distinct callouts that you can use within your ODK XML fo
 * [Enrol](enrol.md)
 * [Identify](identify.md)
 * [Verify](verify.md)
+
+### &#x20;Using KoboToolbox
+
+KoboToolbox is built on ODK, so the Enrol, Identify, and Verify callouts on these pages also work in Kobo, using the KoboCollect Android app. No change to Simprints ID is needed.
+
+Kobo differs from ODK in three ways that affect how you build the form:
+
+* **Field names must be unique across the whole form.** Use one Simprints action type per form, for example one form for identification and a separate one for verification.
+* **Names are looked up from earlier submissions.** Kobo's Connect Projects feature links a form to past submissions, in place of the CSV file described on these pages.
+* **A newly enrolled person's name appears after a delay.** It shows only once the enrolment has been sent to the server and the form has been downloaded again on the device.
+
+Kobo's web forms cannot launch Simprints ID. Use KoboCollect.
